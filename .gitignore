@@ -1,0 +1,14 @@
+*.class
+.gradle
+.DS_Store
+
+*.apk
+*.jar
+*.war
+*.ear
+
+hs_err_pid*
+/local.properties
+# l'intera cartella perchè qualcuno potrebbe compilare da eclipse
+/.idea/
+/build
